@@ -21,6 +21,6 @@ To get started with DevUtils, simply download the package from the Unity Asset S
 
 Once imported, the utilities are ready for use and can be accessed from your scripts. Check out the documentation for each utility for more detailed information, usage instructions, and examples.
 
-Within the Package you have offline documentation (DevUtils \[version\].pdf) inside Plugins/DevUtils/Docs, but you can also look at the online documentation [here](https://github.com/kennethdevelops/DevUtilsDocs/wiki)
+Within the Package you have offline `documentation` (DevUtils \[version\].pdf) inside Plugins/DevUtils/Docs, but you can also look at the online documentation [here](https://github.com/kennethdevelops/DevUtilsDocs/wiki)
 
 Stay tuned for updates, and happy game developing with DevUtils!
